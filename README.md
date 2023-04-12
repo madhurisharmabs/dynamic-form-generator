@@ -1,2 +1,2 @@
-homepage link og dynamic form generator
+homepage link of dynamic form generator
 https://madhurisharmabs.github.io/dynamic-form-generator/
